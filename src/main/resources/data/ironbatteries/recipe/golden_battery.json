@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "#b#",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "X": {
+      "item": "ironbatteries:battery_component"
+    },
+    "b": {
+      "item": "ironbatteries:iron_battery"
+    }
+  },
+  "result": {
+    "id": "ironbatteries:golden_battery"
+  }
+}

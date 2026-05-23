@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " G ",
+    "RLR",
+    " C "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "R": {
+      "item": "ironbatteries:prismarine_ring"
+    },
+    "L": {
+      "item": "minecraft:lightning_rod"
+    },
+    "C": {
+      "item": "ironbatteries:battery_component"
+    }
+  },
+  "result": {
+    "id": "ironbatteries:atmospheric_condenser",
+    "count": 1
+  }
+}
+
+

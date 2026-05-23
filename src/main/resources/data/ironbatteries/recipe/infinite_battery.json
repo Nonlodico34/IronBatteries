@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cXc",
+    "dbd",
+    "#X#"
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "#": {
+      "item": "minecraft:ender_eye"
+    },
+    "X": {
+      "item": "ironbatteries:battery_component"
+    },
+    "b": {
+      "item": "ironbatteries:netherite_battery"
+    },
+    "d": {
+      "item": "minecraft:dragon_breath"
+    }
+  },
+  "result": {
+    "id": "ironbatteries:infinite_battery"
+  }
+}

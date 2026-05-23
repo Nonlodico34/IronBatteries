@@ -1,0 +1,20 @@
+﻿{
+  "variants": {
+    "power=0": { "model": "ironbatteries:block/redstone_link_power_0_1" },
+    "power=1": { "model": "ironbatteries:block/redstone_link_power_0_1" },
+    "power=2": { "model": "ironbatteries:block/redstone_link_power_2_3" },
+    "power=3": { "model": "ironbatteries:block/redstone_link_power_2_3" },
+    "power=4": { "model": "ironbatteries:block/redstone_link_power_4_5" },
+    "power=5": { "model": "ironbatteries:block/redstone_link_power_4_5" },
+    "power=6": { "model": "ironbatteries:block/redstone_link_power_6_7" },
+    "power=7": { "model": "ironbatteries:block/redstone_link_power_6_7" },
+    "power=8": { "model": "ironbatteries:block/redstone_link_power_8_9" },
+    "power=9": { "model": "ironbatteries:block/redstone_link_power_8_9" },
+    "power=10": { "model": "ironbatteries:block/redstone_link_power_10_11" },
+    "power=11": { "model": "ironbatteries:block/redstone_link_power_10_11" },
+    "power=12": { "model": "ironbatteries:block/redstone_link_power_12_13" },
+    "power=13": { "model": "ironbatteries:block/redstone_link_power_12_13" },
+    "power=14": { "model": "ironbatteries:block/redstone_link_power_14_15" },
+    "power=15": { "model": "ironbatteries:block/redstone_link_power_14_15" }
+  }
+}

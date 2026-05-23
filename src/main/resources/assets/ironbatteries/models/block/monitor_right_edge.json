@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "ironbatteries:block/generic_side",
+    "bottom": "ironbatteries:block/generic_side",
+    "side": "ironbatteries:block/generic_side",
+    "front": "ironbatteries:block/monitor_front_right_edge"
+  }
+}

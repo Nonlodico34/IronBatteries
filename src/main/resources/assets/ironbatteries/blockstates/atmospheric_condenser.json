@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "facing=down,powered=false": { "model": "ironbatteries:block/atmospheric_condenser", "x": 180 },
+    "facing=down,powered=true": { "model": "ironbatteries:block/atmospheric_condenser_on", "x": 180 },
+    "facing=east,powered=false": { "model": "ironbatteries:block/atmospheric_condenser", "x": 90, "y": 90 },
+    "facing=east,powered=true": { "model": "ironbatteries:block/atmospheric_condenser_on", "x": 90, "y": 90 },
+    "facing=north,powered=false": { "model": "ironbatteries:block/atmospheric_condenser", "x": 90 },
+    "facing=north,powered=true": { "model": "ironbatteries:block/atmospheric_condenser_on", "x": 90 },
+    "facing=south,powered=false": { "model": "ironbatteries:block/atmospheric_condenser", "x": 90, "y": 180 },
+    "facing=south,powered=true": { "model": "ironbatteries:block/atmospheric_condenser_on", "x": 90, "y": 180 },
+    "facing=up,powered=false": { "model": "ironbatteries:block/atmospheric_condenser" },
+    "facing=up,powered=true": { "model": "ironbatteries:block/atmospheric_condenser_on" },
+    "facing=west,powered=false": { "model": "ironbatteries:block/atmospheric_condenser", "x": 90, "y": 270 },
+    "facing=west,powered=true": { "model": "ironbatteries:block/atmospheric_condenser_on", "x": 90, "y": 270 }
+  }
+}
+

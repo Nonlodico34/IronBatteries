@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "mode=both": {
+      "model": "ironbatteries:block/port"
+    },
+    "mode=input": {
+      "model": "ironbatteries:block/port_input"
+    },
+    "mode=output": {
+      "model": "ironbatteries:block/port_output"
+    }
+  }
+}

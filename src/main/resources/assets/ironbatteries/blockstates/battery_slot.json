@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "ironbatteries:block/battery_slot" },
+    "facing=south": { "model": "ironbatteries:block/battery_slot", "y": 180 },
+    "facing=west": { "model": "ironbatteries:block/battery_slot", "y": 270 },
+    "facing=east": { "model": "ironbatteries:block/battery_slot", "y": 90 }
+  }
+}

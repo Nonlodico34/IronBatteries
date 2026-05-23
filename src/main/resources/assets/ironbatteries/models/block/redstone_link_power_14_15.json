@@ -1,0 +1,6 @@
+﻿{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "ironbatteries:block/redstone_link_power_14_15"
+  }
+}

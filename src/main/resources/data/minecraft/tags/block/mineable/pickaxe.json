@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "ironbatteries:battery_slot",
+    "ironbatteries:controller",
+    "ironbatteries:port",
+    "ironbatteries:monitor",
+    "ironbatteries:atmospheric_condenser"
+  ]
+}

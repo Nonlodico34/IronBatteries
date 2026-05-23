@@ -1,0 +1,28 @@
+{
+  "itemGroup.ironbatteries": "Iron Batteries",
+  "block.ironbatteries.battery_slot": "Battery Slot",
+  "container.ironbatteries.battery_slot": "Battery Slot",
+  "block.ironbatteries.controller": "Controller",
+  "block.ironbatteries.port": "Port",
+  "block.ironbatteries.monitor": "Monitor",
+  "block.ironbatteries.casing": "Casing",
+  "block.ironbatteries.redstone_link": "Redstone Link",
+  "block.ironbatteries.atmospheric_condenser": "Atmospheric Condenser",
+  "item.ironbatteries.iron_battery": "Iron Battery",
+  "item.ironbatteries.golden_battery": "Gold Battery",
+  "item.ironbatteries.emerald_battery": "Emerald Battery",
+  "item.ironbatteries.diamond_battery": "Diamond Battery",
+  "item.ironbatteries.netherite_battery": "Netherite Battery",
+  "item.ironbatteries.infinite_battery": "Infinite Battery",
+  "item.ironbatteries.battery_component": "Battery Component",
+  "item.ironbatteries.prismarine_ring": "Prismarine Ring",
+
+  "tooltip.ironbatteries.shift_hint": "§7Hold §eShift§7 for Summary",
+  "tooltip.ironbatteries.block.battery_slot": "Holds up to 2 batteries.\nCan be connected to a §bNetwork§7.\nEnergy can also be transferred directly\nto or from the block.",
+  "tooltip.ironbatteries.block.controller": "This block creates a §bNetwork§7.\nA Network is used to connect\nmultiple batteries, ports, monitors,\nand redstone links together.",
+  "tooltip.ironbatteries.block.port": "An I/O block used to transfer\nenergy in and out of a §bNetwork§7.\nRight-click to cycle its mode\nbetween §ainput§7 (pull), §coutput§7 (push),\nor §9both§7 (passive).",
+  "tooltip.ironbatteries.block.monitor": "Displays information such as the\ncurrent energy stored in the §bNetwork§7.\nCan be formed into a mega-monitor multiblock\nby placing them in an NxN square (up to 32x32).",
+  "tooltip.ironbatteries.block.casing": "Does nothing on its own,\nbut can be used to extend the §bNetwork§7.",
+  "tooltip.ironbatteries.block.redstone_link": "Outputs a redstone signal with a\nstrength proportional to the current\nenergy stored in the §bNetwork§7.",
+  "tooltip.ironbatteries.block.atmospheric_condenser": "Modified lightning rod that generates\n§eFE§7 when struck by lightning."
+}

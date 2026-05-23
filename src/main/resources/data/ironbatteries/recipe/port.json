@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "X"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:hopper"
+    },
+    "X": {
+      "item": "ironbatteries:casing"
+    }
+  },
+  "result": {
+    "id": "ironbatteries:port"
+  }
+}

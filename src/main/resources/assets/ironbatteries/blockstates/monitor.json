@@ -1,0 +1,47 @@
+{
+  "variants": {
+    "facing=north,type=single":       { "model": "ironbatteries:block/monitor" },
+    "facing=north,type=top_left":     { "model": "ironbatteries:block/monitor_top_left" },
+    "facing=north,type=top_right":    { "model": "ironbatteries:block/monitor_top_right" },
+    "facing=north,type=bottom_left":  { "model": "ironbatteries:block/monitor_bottom_left" },
+    "facing=north,type=bottom_right": { "model": "ironbatteries:block/monitor_bottom_right" },
+    "facing=north,type=top_edge":     { "model": "ironbatteries:block/monitor_top_edge" },
+    "facing=north,type=bottom_edge":  { "model": "ironbatteries:block/monitor_bottom_edge" },
+    "facing=north,type=left_edge":    { "model": "ironbatteries:block/monitor_left_edge" },
+    "facing=north,type=right_edge":   { "model": "ironbatteries:block/monitor_right_edge" },
+    "facing=north,type=inner":        { "model": "ironbatteries:block/monitor_inner" },
+
+    "facing=south,type=single":       { "model": "ironbatteries:block/monitor", "y": 180 },
+    "facing=south,type=top_left":     { "model": "ironbatteries:block/monitor_top_left", "y": 180 },
+    "facing=south,type=top_right":    { "model": "ironbatteries:block/monitor_top_right", "y": 180 },
+    "facing=south,type=bottom_left":  { "model": "ironbatteries:block/monitor_bottom_left", "y": 180 },
+    "facing=south,type=bottom_right": { "model": "ironbatteries:block/monitor_bottom_right", "y": 180 },
+    "facing=south,type=top_edge":     { "model": "ironbatteries:block/monitor_top_edge", "y": 180 },
+    "facing=south,type=bottom_edge":  { "model": "ironbatteries:block/monitor_bottom_edge", "y": 180 },
+    "facing=south,type=left_edge":    { "model": "ironbatteries:block/monitor_left_edge", "y": 180 },
+    "facing=south,type=right_edge":   { "model": "ironbatteries:block/monitor_right_edge", "y": 180 },
+    "facing=south,type=inner":        { "model": "ironbatteries:block/monitor_inner", "y": 180 },
+
+    "facing=west,type=single":        { "model": "ironbatteries:block/monitor", "y": 270 },
+    "facing=west,type=top_left":      { "model": "ironbatteries:block/monitor_top_left", "y": 270 },
+    "facing=west,type=top_right":     { "model": "ironbatteries:block/monitor_top_right", "y": 270 },
+    "facing=west,type=bottom_left":   { "model": "ironbatteries:block/monitor_bottom_left", "y": 270 },
+    "facing=west,type=bottom_right":  { "model": "ironbatteries:block/monitor_bottom_right", "y": 270 },
+    "facing=west,type=top_edge":      { "model": "ironbatteries:block/monitor_top_edge", "y": 270 },
+    "facing=west,type=bottom_edge":   { "model": "ironbatteries:block/monitor_bottom_edge", "y": 270 },
+    "facing=west,type=left_edge":     { "model": "ironbatteries:block/monitor_left_edge", "y": 270 },
+    "facing=west,type=right_edge":    { "model": "ironbatteries:block/monitor_right_edge", "y": 270 },
+    "facing=west,type=inner":         { "model": "ironbatteries:block/monitor_inner", "y": 270 },
+
+    "facing=east,type=single":        { "model": "ironbatteries:block/monitor", "y": 90 },
+    "facing=east,type=top_left":      { "model": "ironbatteries:block/monitor_top_left", "y": 90 },
+    "facing=east,type=top_right":     { "model": "ironbatteries:block/monitor_top_right", "y": 90 },
+    "facing=east,type=bottom_left":   { "model": "ironbatteries:block/monitor_bottom_left", "y": 90 },
+    "facing=east,type=bottom_right":  { "model": "ironbatteries:block/monitor_bottom_right", "y": 90 },
+    "facing=east,type=top_edge":      { "model": "ironbatteries:block/monitor_top_edge", "y": 90 },
+    "facing=east,type=bottom_edge":   { "model": "ironbatteries:block/monitor_bottom_edge", "y": 90 },
+    "facing=east,type=left_edge":     { "model": "ironbatteries:block/monitor_left_edge", "y": 90 },
+    "facing=east,type=right_edge":    { "model": "ironbatteries:block/monitor_right_edge", "y": 90 },
+    "facing=east,type=inner":         { "model": "ironbatteries:block/monitor_inner", "y": 90 }
+  }
+}

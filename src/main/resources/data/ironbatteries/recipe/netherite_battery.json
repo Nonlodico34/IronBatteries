@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "mbm",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "X": {
+      "item": "ironbatteries:battery_component"
+    },
+    "b": {
+      "item": "ironbatteries:emerald_battery"
+    },
+    "m": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "id": "ironbatteries:netherite_battery"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    ".X.",
+    " C "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone_torch"
+    },
+    ".": {
+      "item": "minecraft:redstone"
+    },
+    "X": {
+      "item": "ironbatteries:casing"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "result": {
+    "id": "ironbatteries:redstone_link"
+  }
+}
+

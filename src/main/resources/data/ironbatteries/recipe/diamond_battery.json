@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "#b#",
+    "#X#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "X": {
+      "item": "ironbatteries:battery_component"
+    },
+    "b": {
+      "item": "ironbatteries:golden_battery"
+    }
+  },
+  "result": {
+    "id": "ironbatteries:diamond_battery"
+  }
+}

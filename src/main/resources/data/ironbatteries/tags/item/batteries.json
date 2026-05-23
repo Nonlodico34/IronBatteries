@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ironbatteries:iron_battery",
+    "ironbatteries:golden_battery",
+    "ironbatteries:emerald_battery",
+    "ironbatteries:diamond_battery",
+    "ironbatteries:netherite_battery",
+    "ironbatteries:infinite_battery"
+  ]
+}
