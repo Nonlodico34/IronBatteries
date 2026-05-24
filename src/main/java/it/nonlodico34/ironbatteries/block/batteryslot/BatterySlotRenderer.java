@@ -32,7 +32,7 @@ public class BatterySlotRenderer implements BlockEntityRenderer<BatterySlotBlock
                     case EAST -> 270f;
                     default -> 0f;
                 };
-                poseStack.mulPose(Axis.YP.rotationDegrees(fRot));
+                poseStack.mulPose(Axis.YP.rotationDegrees(fRot + 180f));
                 float xOffset = (i == 0) ? -0.225f : 0.225f;
                 poseStack.translate(xOffset, 0, 0);
 

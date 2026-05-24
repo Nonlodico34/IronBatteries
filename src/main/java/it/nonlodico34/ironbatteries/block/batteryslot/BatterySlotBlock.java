@@ -77,7 +77,6 @@ public class BatterySlotBlock extends NetworkNodeBlock implements EntityBlock {
 
     @Override
     public void onRemove(BlockState state, Level level, BlockPos pos, BlockState newState, boolean movedByPiston) {
-        super.onRemove(state, level, pos, newState, movedByPiston);
         if (!level.isClientSide && state.getBlock() != newState.getBlock()) {
             BlockEntity be = level.getBlockEntity(pos);
             if (be instanceof BatterySlotBlockEntity batteryBE) {
@@ -94,5 +93,7 @@ public class BatterySlotBlock extends NetworkNodeBlock implements EntityBlock {
                 Containers.dropContents(level, pos, stacksToDrop);
             }
         }
+
+        super.onRemove(state, level, pos, newState, movedByPiston);
     }
 }
