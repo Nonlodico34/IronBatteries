@@ -5,6 +5,8 @@
     "ironbatteries:controller",
     "ironbatteries:port",
     "ironbatteries:monitor",
-    "ironbatteries:atmospheric_condenser"
+    "ironbatteries:atmospheric_condenser",
+    "ironbatteries:redstone_link",
+    "ironbatteries:casing"
   ]
 }
